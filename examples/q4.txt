@@ -1,0 +1,13 @@
+12
+www.topcoder.com
+Ever.tried
+.
+Ever.failed
+..
+No
+Matter.
+Try
+Again.
+Fail
+Again..
+Fail.Better

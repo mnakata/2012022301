@@ -1,0 +1,7 @@
+6
+ContestApplet.jnlp
+.
+Image.jpg
+..
+Book.pdf
+Movie.avi

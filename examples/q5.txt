@@ -1,0 +1,7 @@
+6
+This
+.
+is
+tricky
+test
+..
